@@ -555,8 +555,8 @@ For terms of use, see http://www.unicode.org/copyright.html
 			<mapZone other="Qyzylorda Standard Time" territory="KZ" type="Asia/Qyzylorda"/>
 
 			<!-- (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi -->
-			<mapZone other="India Standard Time" territory="001" type="Asia/Calcutta"/>
-			<mapZone other="India Standard Time" territory="IN" type="Asia/Calcutta"/>
+			<mapZone other="India Standard Time" territory="001" type="Asia/Kolkata"/>
+			<mapZone other="India Standard Time" territory="IN" type="Asia/Kolkata"/>
 
 			<!-- (UTC+05:30) Sri Jayawardenepura -->
 			<mapZone other="Sri Lanka Standard Time" territory="001" type="Asia/Colombo"/>
